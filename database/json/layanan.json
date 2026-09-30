@@ -1,0 +1,43 @@
+[
+    {
+        "nama": "Pengajuan Defer",
+        "deskripsi": "Proses pengajuan defer dilakukan dengan mengajukan penundaan penerimaan sesuai dengan ketentuan yang berlaku. Pengajuan mencakup pengecekan data dan kelengkapan dokumen, kemudian diproses untuk mendapatkan persetujuan sebelum status penerimaan diperbarui menjadi defer.",
+        "is_active": true,
+        "id": 4,
+        "created_at": "2026-09-03 08:51:27",
+        "is_template_wajib": true,
+        "file_template": "\/uploads\/template_layanan\/tpl_6a9a202109743.pdf",
+        "nama_file_template": "TM3_Framework (P)_434251073.pdf",
+        "updated_at": "2026-09-04 02:59:14"
+    },
+    {
+        "nama": "Pindah penerimaan mandiri",
+        "deskripsi": "Proses pindah penerimaan mandiri dilakukan dengan memindahkan data penerimaan dari sistem atau proses sebelumnya ke penerimaan mandiri. Proses ini mencakup pengecekan data, penyesuaian informasi, dan memastikan seluruh penerimaan tercatat dengan benar pada sistem penerimaan mandiri.",
+        "is_active": true,
+        "file_template": "\/uploads\/template_layanan\/tpl_6a9a3187d1704.pdf",
+        "nama_file_template": "TM3_Framework (P)_434251073.pdf",
+        "is_template_wajib": true,
+        "id": 5,
+        "created_at": "2026-09-04 02:48:39"
+    },
+    {
+        "nama": "Pengajuan LOA",
+        "deskripsi": "layanan pengajuan LOA",
+        "is_active": true,
+        "file_template": "\/uploads\/template_layanan\/tpl_6a9f84e17ef27.pdf",
+        "nama_file_template": "Kelompok B7-8.pdf",
+        "is_template_wajib": true,
+        "id": 6,
+        "created_at": "2026-09-08 03:45:37"
+    },
+    {
+        "nama": "Pengajuan Anggaran",
+        "deskripsi": "",
+        "is_active": true,
+        "file_template": null,
+        "nama_file_template": null,
+        "is_template_wajib": true,
+        "id": 7,
+        "created_at": "2026-09-15 06:35:44"
+    }
+]

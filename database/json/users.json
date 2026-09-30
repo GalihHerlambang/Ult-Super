@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "nama": "Administrator",
+        "username": "admin",
+        "password": "$2y$10$AL4746aSHb0Vuu\/GHjfT..pIMEvrrMDz53Yxij6WQNWkopo.hW1CO",
+        "role": "admin",
+        "email": "admin@superadu.id",
+        "is_active": true,
+        "created_at": "2026-09-03 08:00:00"
+    },
+    {
+        "id": 2,
+        "nama": "Petugas Helpdesk",
+        "username": "helpdesk",
+        "password": "$2y$10$kpxUCJQ3MfF\/LnsIS2E8xOTouUKjBbLuUZkN3bhIscSaoFuz1vqLu",
+        "role": "helpdesk",
+        "email": "helpdesk@superadu.id",
+        "is_active": true,
+        "created_at": "2026-09-03 08:00:00"
+    },
+    {
+        "id": 3,
+        "nama": "Kepala Bagian",
+        "username": "atasan",
+        "password": "$2y$10$LwdfWoGOsiVxD..q.ynlVeQA1wpLm0lBVQAAdhaTudo8gqXrMSU9K",
+        "role": "atasan",
+        "email": "atasan@superadu.id",
+        "is_active": true,
+        "created_at": "2026-09-03 08:00:00"
+    },
+    {
+        "id": 4,
+        "nama": "Budi Santoso",
+        "username": "pengadu",
+        "password": "$2y$10$QPFGYL84jlPluAGVCwKdSe\/dq.NLy0zh3V7KpFXAMIpcA0VA\/qDqK",
+        "role": "pengadu",
+        "email": "budi@example.com",
+        "is_active": true,
+        "created_at": "2026-09-03 08:00:00"
+    },
+    {
+        "nama": "Siti Rahma",
+        "username": "siti_rahma",
+        "email": "siti@example.com",
+        "password": "$2y$10$19TAS6pcdQ6ZKhgm9sAalOSiitkfUumf\/fT9ddOU0EwYs0HCXujZO",
+        "role": "pengadu",
+        "is_active": true,
+        "id": 5,
+        "created_at": "2026-09-03 08:44:57"
+    },
+    {
+        "nama": "Galih Hery H",
+        "username": "galihunair",
+        "email": "galihunair@gmail.com",
+        "password": "$2y$10$tzrtLonMjIp90mSmy5tlx.qTcz3n9MPxHRPH8.v\/YezayP8yeY31K",
+        "role": "pengadu",
+        "is_active": true,
+        "id": 6,
+        "created_at": "2026-09-03 08:53:55"
+    },
+    {
+        "nama": "Alex",
+        "username": "alex123",
+        "email": "elex@gmail.com",
+        "password": "$2y$10$jvLn\/bA\/BL8.WPLkTOa\/Oulqs.eMoS2EyJZdWt4ZmBJ4YCXA\/axne",
+        "role": "pengadu",
+        "is_active": true,
+        "id": 7,
+        "created_at": "2026-09-08 03:49:02"
+    }
+]

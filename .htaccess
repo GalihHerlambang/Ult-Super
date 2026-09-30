@@ -1,0 +1,12 @@
+Options -Indexes
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # Direct empty request to public/
+    RewriteRule ^$ public/ [L]
+
+    # Rewrite all other requests to public/ if not an existing file/dir in root
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>

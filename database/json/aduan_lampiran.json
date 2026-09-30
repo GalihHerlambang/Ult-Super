@@ -1,0 +1,42 @@
+[
+    {
+        "aduan_id": 1,
+        "nama_file": "TM3_Framework (P)_434251073.pdf",
+        "path_file": "\/uploads\/aduan\/1\/6a9935bd8ba82.pdf",
+        "uploaded_by": 6,
+        "id": 1,
+        "created_at": "2026-09-03 08:54:21"
+    },
+    {
+        "aduan_id": 2,
+        "nama_file": "[Syarat Berkas] TM3_Framework (P)_434251073.pdf",
+        "path_file": "\/uploads\/aduan\/2\/syarat_6a9a352121661.pdf",
+        "uploaded_by": 6,
+        "id": 2,
+        "created_at": "2026-09-04 03:04:01"
+    },
+    {
+        "aduan_id": 3,
+        "nama_file": "[Syarat Berkas] Kelompok B7-8.pdf",
+        "path_file": "\/uploads\/aduan\/3\/syarat_6a9f85d4224fe.pdf",
+        "uploaded_by": 7,
+        "id": 3,
+        "created_at": "2026-09-08 03:49:40"
+    },
+    {
+        "aduan_id": 3,
+        "nama_file": "Kelompok B7-8.pdf",
+        "path_file": "\/uploads\/aduan\/3\/6a9f85d424087.pdf",
+        "uploaded_by": 7,
+        "id": 4,
+        "created_at": "2026-09-08 03:49:40"
+    },
+    {
+        "aduan_id": 4,
+        "nama_file": "Gemini_Certificate_Education_Galih_Hery_Herlambang.pdf",
+        "path_file": "\/uploads\/aduan\/4\/6aa8e82484ea5.pdf",
+        "uploaded_by": 4,
+        "id": 5,
+        "created_at": "2026-09-15 06:39:32"
+    }
+]

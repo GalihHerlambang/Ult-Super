@@ -1,0 +1,12 @@
+Options -Indexes
+RewriteEngine On
+
+# Allow direct access to assets and uploads
+RewriteCond %{REQUEST_URI} ^/assets/ [OR]
+RewriteCond %{REQUEST_URI} ^/uploads/
+RewriteRule ^ - [L]
+
+# Route everything else through index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]

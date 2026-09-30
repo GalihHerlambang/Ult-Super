@@ -1,0 +1,87 @@
+[
+    {
+        "aduan_id": 1,
+        "tahapan_id": 7,
+        "approver_user_id": 2,
+        "status": "setuju",
+        "catatan": "Peserta benar adanya",
+        "diproses_at": "2026-09-03 08:55:07",
+        "id": 1,
+        "created_at": "2026-09-03 08:54:21",
+        "updated_at": "2026-09-03 08:55:07"
+    },
+    {
+        "aduan_id": 1,
+        "tahapan_id": 8,
+        "approver_user_id": 3,
+        "status": "menunggu",
+        "catatan": null,
+        "diproses_at": null,
+        "id": 2,
+        "created_at": "2026-09-03 08:55:07"
+    },
+    {
+        "aduan_id": 2,
+        "tahapan_id": 9,
+        "approver_user_id": 2,
+        "status": "setuju",
+        "catatan": "lolos pak sol",
+        "diproses_at": "2026-09-04 03:05:11",
+        "id": 3,
+        "created_at": "2026-09-04 03:04:01",
+        "updated_at": "2026-09-04 03:05:11"
+    },
+    {
+        "aduan_id": 2,
+        "tahapan_id": 10,
+        "approver_user_id": 3,
+        "status": "tolak",
+        "catatan": "manja",
+        "diproses_at": "2026-09-04 03:06:12",
+        "id": 4,
+        "created_at": "2026-09-04 03:05:11",
+        "updated_at": "2026-09-04 03:06:12"
+    },
+    {
+        "aduan_id": 3,
+        "tahapan_id": 12,
+        "approver_user_id": 2,
+        "status": "setuju",
+        "catatan": "langsung pak sol",
+        "diproses_at": "2026-09-08 03:50:19",
+        "id": 5,
+        "created_at": "2026-09-08 03:49:40",
+        "updated_at": "2026-09-08 03:50:19"
+    },
+    {
+        "aduan_id": 3,
+        "tahapan_id": 13,
+        "approver_user_id": 3,
+        "status": "setuju",
+        "catatan": "buatkan suratnya",
+        "diproses_at": "2026-09-08 03:51:08",
+        "id": 6,
+        "created_at": "2026-09-08 03:50:19",
+        "updated_at": "2026-09-08 03:51:08"
+    },
+    {
+        "aduan_id": 3,
+        "tahapan_id": 14,
+        "approver_user_id": 2,
+        "status": "menunggu",
+        "catatan": null,
+        "diproses_at": null,
+        "id": 7,
+        "created_at": "2026-09-08 03:51:08"
+    },
+    {
+        "aduan_id": 4,
+        "tahapan_id": 15,
+        "approver_user_id": 1,
+        "status": "menunggu",
+        "catatan": null,
+        "diproses_at": null,
+        "id": 8,
+        "created_at": "2026-09-15 06:39:32"
+    }
+]

@@ -1,0 +1,101 @@
+[
+    {
+        "aduan_id": 1,
+        "arah": "maju",
+        "tahapan_asal_id": null,
+        "tahapan_tujuan_id": 7,
+        "aksi": "diajukan",
+        "catatan": "Aduan diajukan oleh pengadu.",
+        "diproses_oleh": 6,
+        "id": 1,
+        "created_at": "2026-09-03 08:54:21"
+    },
+    {
+        "aduan_id": 1,
+        "arah": "maju",
+        "tahapan_asal_id": 7,
+        "tahapan_tujuan_id": 8,
+        "aksi": "diteruskan",
+        "catatan": "Peserta benar adanya",
+        "diproses_oleh": 2,
+        "id": 2,
+        "created_at": "2026-09-03 08:55:07"
+    },
+    {
+        "aduan_id": 2,
+        "arah": "maju",
+        "tahapan_asal_id": null,
+        "tahapan_tujuan_id": 9,
+        "aksi": "diajukan",
+        "catatan": "Aduan diajukan oleh pengadu.",
+        "diproses_oleh": 6,
+        "id": 3,
+        "created_at": "2026-09-04 03:04:01"
+    },
+    {
+        "aduan_id": 2,
+        "arah": "maju",
+        "tahapan_asal_id": 9,
+        "tahapan_tujuan_id": 10,
+        "aksi": "diteruskan",
+        "catatan": "lolos pak sol",
+        "diproses_oleh": 2,
+        "id": 4,
+        "created_at": "2026-09-04 03:05:11"
+    },
+    {
+        "aduan_id": 2,
+        "arah": "maju",
+        "tahapan_asal_id": 10,
+        "tahapan_tujuan_id": null,
+        "aksi": "ditolak",
+        "catatan": "manja",
+        "diproses_oleh": 3,
+        "id": 5,
+        "created_at": "2026-09-04 03:06:12"
+    },
+    {
+        "aduan_id": 3,
+        "arah": "maju",
+        "tahapan_asal_id": null,
+        "tahapan_tujuan_id": 12,
+        "aksi": "diajukan",
+        "catatan": "Aduan diajukan oleh pengadu.",
+        "diproses_oleh": 7,
+        "id": 6,
+        "created_at": "2026-09-08 03:49:40"
+    },
+    {
+        "aduan_id": 3,
+        "arah": "maju",
+        "tahapan_asal_id": 12,
+        "tahapan_tujuan_id": 13,
+        "aksi": "diteruskan",
+        "catatan": "langsung pak sol",
+        "diproses_oleh": 2,
+        "id": 7,
+        "created_at": "2026-09-08 03:50:19"
+    },
+    {
+        "aduan_id": 3,
+        "arah": "maju",
+        "tahapan_asal_id": 13,
+        "tahapan_tujuan_id": 14,
+        "aksi": "diteruskan",
+        "catatan": "buatkan suratnya",
+        "diproses_oleh": 3,
+        "id": 8,
+        "created_at": "2026-09-08 03:51:08"
+    },
+    {
+        "aduan_id": 4,
+        "arah": "maju",
+        "tahapan_asal_id": null,
+        "tahapan_tujuan_id": 15,
+        "aksi": "diajukan",
+        "catatan": "Aduan diajukan oleh pengadu.",
+        "diproses_oleh": 4,
+        "id": 9,
+        "created_at": "2026-09-15 06:39:32"
+    }
+]
